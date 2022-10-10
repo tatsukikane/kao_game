@@ -1,0 +1,9 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-dlp
+google-cloud-logging
+google-cloud-pubsub==2.9.0
+google-cloud-storage==2.1.0
+google-cloud-translate==3.7.4
+google-cloud-vision==2.7.3
+google-cloud-firestore==1.2.0
